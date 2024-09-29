@@ -1,0 +1,7 @@
+S:\Office Work\Monocept Training\Assignments\PocOnEnum\PocOnEnum\bin\Debug\PocOnEnum.exe.config
+S:\Office Work\Monocept Training\Assignments\PocOnEnum\PocOnEnum\bin\Debug\PocOnEnum.exe
+S:\Office Work\Monocept Training\Assignments\PocOnEnum\PocOnEnum\bin\Debug\PocOnEnum.pdb
+S:\Office Work\Monocept Training\Assignments\PocOnEnum\PocOnEnum\obj\Debug\PocOnEnum.csproj.AssemblyReference.cache
+S:\Office Work\Monocept Training\Assignments\PocOnEnum\PocOnEnum\obj\Debug\PocOnEnum.csproj.CoreCompileInputs.cache
+S:\Office Work\Monocept Training\Assignments\PocOnEnum\PocOnEnum\obj\Debug\PocOnEnum.exe
+S:\Office Work\Monocept Training\Assignments\PocOnEnum\PocOnEnum\obj\Debug\PocOnEnum.pdb
